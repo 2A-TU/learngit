@@ -6,4 +6,7 @@ public class Boy implements Student{
     public void walk(){
         System.out.println("走路");
     }
+    public void read(){
+        System.out.println("读书");
+    }
 }
